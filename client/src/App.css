@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+.nav-link{
+  background-color: blueviolet;
+}
+.nav-link:active{
+  background-color: chartreuse;
+}
+
+main{
+  position: relative;
+  background-color: aquamarine;
+}
