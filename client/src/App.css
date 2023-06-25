@@ -13,3 +13,7 @@ main{
   position: relative;
   background-color: aquamarine;
 }
+
+.card{
+  margin: 10px;
+}
